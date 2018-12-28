@@ -80,6 +80,7 @@ The following table details SharePoint List templates and which ones are support
 |499|IMEDic|IME (Input Method Editor) Dictionary. Value = 499|No|
 |600|ExternalList|External. Value = 600|No|
 |700|MySiteDocumentLibrary|MySiteDocumentLibrary.Value = 700|Yes|
+|850|Page Library||No|
 |851|Asset Library||No|
 |1100|IssueTracking|Issue tracking. Value = 1100|Yes|
 |1200|AdminTasks|Administrator Tasks. Value = 1200|No|
